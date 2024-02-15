@@ -1,0 +1,148 @@
+[
+    {
+        "reviewText": "The spice level at Halal Spice was just perfect - not too hot, not too mild!",
+        "reviewAuthor": "Crisco Thomas",
+        "spiceRating": 5,
+        "createdAt": "2023-05-13",
+        "comments": [
+            {
+                "commentText": "Great review!",
+                "commentAuthor": "Crisco Thomas",
+                "createdAt": "2023-11-18"
+            }
+        ],
+        "restaurant": "Mixto Restaurante"
+    },
+    {
+        "reviewText": "Loved the fiery dishes at Asad's Hot Chicken. The heat was intense but enjoyable.",
+        "reviewAuthor": "Corby Tender",
+        "spiceRating": 5,
+        "createdAt": "2023-06-21",
+        "comments": [
+            {
+                "commentText": "Couldn't have said it better myself.",
+                "commentAuthor": "Corby Tender",
+                "createdAt": "2023-04-01"
+            },
+            {
+                "commentText": "Interesting point of view.",
+                "commentAuthor": "Tony Cheese",
+                "createdAt": "2023-04-05"
+            },
+            {
+                "commentText": "I completely agree.",
+                "commentAuthor": "Tony Cheese",
+                "createdAt": "2023-07-07"
+            }
+        ],
+        "restaurant": "Asad's Hot Chicken"
+    },
+    {
+        "reviewText": "The mild spices at the restaurant were perfect for my taste. Great for those who prefer less heat.",
+        "reviewAuthor": "Celery Man",
+        "spiceRating": 5,
+        "createdAt": "2023-07-25",
+        "comments": [],
+        "restaurant": "Buddakan"
+    },
+    {
+        "reviewText": "The spicy food at Casablanca Mediterranean Grill really packs a punch! Not for the faint-hearted.",
+        "reviewAuthor": "J.J. Pepper",
+        "spiceRating": 5,
+        "createdAt": "2023-12-16",
+        "comments": [
+            {
+                "commentText": "I completely agree.",
+                "commentAuthor": "David Liebe Hart",
+                "createdAt": "2023-03-25"
+            },
+            {
+                "commentText": "Thanks for sharing your thoughts!",
+                "commentAuthor": "Celery Man",
+                "createdAt": "2023-02-18"
+            },
+            {
+                "commentText": "Great review!",
+                "commentAuthor": "Dr. Steve Brule",
+                "createdAt": "2023-08-29"
+            }
+        ],
+        "restaurant": "Casablanca Mediterranean Grill"
+    },
+    {
+        "reviewText": "Enjoyed the balanced spice levels at Hotclucks. Flavorful but not overwhelming.",
+        "reviewAuthor": "James Quall",
+        "spiceRating": 5,
+        "createdAt": "2023-02-16",
+        "comments": [
+            {
+                "commentText": "Thanks for sharing your thoughts!",
+                "commentAuthor": "Dee Vee",
+                "createdAt": "2023-07-26"
+            },
+            {
+                "commentText": "Interesting point of view.",
+                "commentAuthor": "Dr. Steve Brule",
+                "createdAt": "2023-01-01"
+            },
+            {
+                "commentText": "Couldn't have said it better myself.",
+                "commentAuthor": "David Liebe Hart",
+                "createdAt": "2023-08-18"
+            }
+        ],
+        "restaurant": "Hotclucks"
+    },
+    {
+        "reviewText": "The spicy food at King of Tandoor really packs a punch! Not for the faint-hearted.",
+        "reviewAuthor": "Dee Vee",
+        "spiceRating": 5,
+        "createdAt": "2023-11-08",
+        "comments": [
+            {
+                "commentText": "Interesting point of view.",
+                "commentAuthor": "Richard Dunn",
+                "createdAt": "2023-12-09"
+            }
+        ],
+        "restaurant": "King of Tandoor"
+    },
+    {
+        "reviewText": "I found it a bit too spicy for my liking, but still good.",
+        "reviewAuthor": "David Liebe Hart",
+        "spiceRating": 5,
+        "createdAt": "2023-10-27",
+        "comments": [],
+        "restaurant": "Cafe Soho"
+    },
+    {
+        "reviewText": "Perfect for someone like me who can't handle too much heat.",
+        "reviewAuthor": "Tony Cheese",
+        "spiceRating": 5,
+        "createdAt": "2023-02-14",
+        "comments": [
+            {
+                "commentText": "Interesting point of view.",
+                "commentAuthor": "Celery Man",
+                "createdAt": "2023-10-29"
+            }
+        ],
+        "restaurant": "Amma's South Indian Cuisine"
+    },
+    {
+        "reviewText": "It was so spicy, I needed lots of water! But loved it.",
+        "reviewAuthor": "Richard Dunn",
+        "spiceRating": 5,
+        "createdAt": "2023-11-09",
+        "comments": [],
+        "restaurant": "Han Dynasty"
+    },
+    {
+        "reviewText": "The spices were indeed well-balanced, made for a great meal.",
+        "reviewAuthor": "Dr. Steve Brule",
+        "spiceRating": 5,
+        "createdAt": "2023-06-13",
+        "comments": [],
+        "restaurant": "Tamarind"
+    }
+]

@@ -1,0 +1,38 @@
+.navbar {
+  background-color: #DBEE7B;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+
+
+.nav-logo-container {
+  flex-shrink: 0;
+}
+
+.nav-logo {
+  height: 100px;
+}
+
+.nav-links {
+  display: flex;
+  list-style-type: none; /* Removes bullet points */
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin: 0 8px;
+  padding: 8px;
+  color: black; /* Text color */
+  text-decoration: none; /* Removes underline from links */
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.nav-item:hover {
+  background-color: #B84040; /* Hover background color */
+  color: #E2C85B; /* Hover text color */
+}

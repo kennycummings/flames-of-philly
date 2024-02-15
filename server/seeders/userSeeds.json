@@ -1,0 +1,52 @@
+[
+  {
+    "username": "Crisco Thomas",
+    "email": "bkernighan@techfriends.dev",
+    "password": "Password01!"
+  },
+  {
+    "username": "Corby Tender",
+    "email": "mkanatalexander@techfriends.dev",
+    "password": "Password02!"
+  },
+  {
+    "username": "Celery Man",
+    "email": "wtls@techfriends.dev",
+    "password": "Password03!"
+  },
+  {
+    "username": "J.J. Pepper",
+    "email": "kbeck@techfriends.dev",
+    "password": "Password04!"
+  },
+  {
+    "username": "James Quall",
+    "email": "evberard@techfriends.dev",
+    "password": "Password05!"
+  },
+  {
+    "username": "Dee Vee",
+    "email": "akay@techfriends.dev",
+    "password": "Password06!"
+  },
+  {
+    "username": "David Liebe Hart",
+    "email": "choare@techfriends.dev",
+    "password": "Password07!"
+  },
+  {
+    "username": "Tony Cheese",
+    "email": "dthomas@techfriends.dev",
+    "password": "Password08!"
+  },
+  {
+    "username": "Richard Dunn",
+    "email": "dknuth@techfriends.dev",
+    "password": "Password09!"
+  },
+  {
+    "username": "Dr. Steve Brule",
+    "email": "Dr. Steve Brule@techfriends.dev",
+    "password": "Password10!"
+  }
+]
