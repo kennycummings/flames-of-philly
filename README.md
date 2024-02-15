@@ -11,7 +11,7 @@ This project brings the essence of spice lovers to the web, making it easy for p
 - **Home**: A sleek homepage featuring warm colors such as red, orange, and yellow.
 - **Restaurant**: Find a new restaurant or dig into an old favorite.
 - **Login**: Login to post reviews.
-- **Signup**: Signup to gain account features.
+- **Sign up**: Sign up to gain account features.
 
 ## Getting Started
 
@@ -55,4 +55,10 @@ Project Link: https://github.com/p-iacone88/flames-of-philly
 Acknowledgements
 [React](https://reactjs.org)
 
+### Deployment Link
 
+
+
+### Screenshot
+
+![alt text](flames-of-philly-homepage.png)
